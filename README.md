@@ -181,4 +181,4 @@ Load balancer kind of DNAT as it is in layer 4. Load balancer open 2 tcp connect
 It also applies here: https://github.com/scoulomb/docker-under-the-hood/blob/main/NAT-deep-dive-appendix/README.md#pellicular-case-for-outbound
 
 <!-- doc is ccl until here --> 
-<!-- make linka in nat-deep-dove-appendix -->
+<!-- Updated cross link in nat-deep-dive-appendix => DONE, above clear OK: https://github.com/scoulomb/docker-under-the-hood/commit/5371e833674dcdecef2cb8fda238e1acf662703b -->

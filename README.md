@@ -261,7 +261,7 @@ F5 SNAT section: https://github.com/scoulomb/docker-under-the-hood/blob/main/NAT
   - NAT object
 
 - SNAT object: https://github.com/scoulomb/docker-under-the-hood/blob/main/NAT-deep-dive-appendix/README.md#section-about-securenats 
-  - Note the part `SNAT pool assinged to virtual server (forwaring or not)`
+  - Note the part `SNAT pool assigned to virtual server (standard or forwarding IP)`
 
 - Outbound pellicular case https://github.com/scoulomb/docker-under-the-hood/blob/main/NAT-deep-dive-appendix/README.md#pellicular-case-for-outbound
   - Usage with std vs and fw vs <!-- requestor connector vs ip or remote ip directly -->
